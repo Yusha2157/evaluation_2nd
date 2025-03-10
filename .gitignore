@@ -1,2 +1,4 @@
 node_modules
 .env
+React/node_modules
+React/.gitignore
